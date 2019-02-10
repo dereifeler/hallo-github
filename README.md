@@ -1,3 +1,3 @@
 # hallo-github
 Testprojekt deutsch
-Test zu übungszwecken
+Test zu Übungszwecken
